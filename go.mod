@@ -1,4 +1,4 @@
-module configer
+module github.com/ken0911208818/configer-viper
 
 go 1.15
 
